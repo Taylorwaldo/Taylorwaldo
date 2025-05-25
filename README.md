@@ -4,10 +4,6 @@
 # 💫 About Me:
 Computer Science student with hands-on experience in cybersecurity and software development. Currently working on network security projects including phishing detection systems and WiFi penetration testing tools. Proficient in Java and Python with interests spanning from inventory management systems to machine learning applications. Actively contributing to open-source projects and continuously expanding technical expertise through practical implementations.
 
-### 📊 GitHub Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taylor-j-waldo/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCFt79ECd25oZh75e3745D9g) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taylorwaldo.tw@gmail.com) 
 
