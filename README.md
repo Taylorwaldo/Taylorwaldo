@@ -1,5 +1,8 @@
 ![GitHub Banner](Github_banner_10sec.gif)
 
+![Github_banner_10MB](https://github.com/user-attachments/assets/ba125f38-9fe3-4af1-9804-387a40592503)
+
+
 # 💫 About Me:
 Computer Science student with hands-on experience in cybersecurity and software development. Currently working on network security projects including phishing detection systems and WiFi penetration testing tools. Proficient in Java and Python with interests spanning from inventory management systems to machine learning applications. Actively contributing to open-source projects and continuously expanding technical expertise through practical implementations.
 
