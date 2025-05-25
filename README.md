@@ -15,6 +15,7 @@ Computer Science student with hands-on experience in cybersecurity and software 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Taylorwaldo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 # 🏆 GitHub Trophies
+
   <img src="https://github-profile-trophy.vercel.app?username=Taylorwaldo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
