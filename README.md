@@ -1,4 +1,4 @@
-![GitHub Banner](banner-animation)
+![GitHub Banner](banner-animation.gif)
 
 
 # 💫 About Me:
