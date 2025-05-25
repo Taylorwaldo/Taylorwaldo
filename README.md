@@ -1,7 +1,4 @@
- ![optimized_larger_gif](https://github.com/user-attachments/assets/e1814718-505f-4b53-b228-73f0306ce65b)
-
- 
-
+![GitHub Banner](banner-animation)
 
 
 # 💫 About Me:
