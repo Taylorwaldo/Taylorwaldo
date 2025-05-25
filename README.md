@@ -1,4 +1,4 @@
-![GitHub Banner](banner-animation.gif)
+<img src="banner-animation.gif" alt="GitHub Banner" />
 
 
 # 💫 About Me:
