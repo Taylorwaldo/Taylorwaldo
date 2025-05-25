@@ -1,6 +1,12 @@
 ![GitHub Banner](Github_banner_10sec.gif)
 
-![Github_banner_10MB](https://github.com/user-attachments/assets/ba125f38-9fe3-4af1-9804-387a40592503)
+
+![optimized_larger_gif](https://github.com/user-attachments/assets/e1814718-505f-4b53-b228-73f0306ce65b)
+
+
+
+![optimized_banner_10MB](https://github.com/user-attachments/assets/8149be4b-c852-46ad-9d35-6c847880ba9c)
+
 
 
 # 💫 About Me:
