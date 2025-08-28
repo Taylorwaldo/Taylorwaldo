@@ -3,6 +3,7 @@
 Computer Science student with hands-on experience in cybersecurity and software development. Currently working on network security projects including phishing detection systems and WiFi penetration testing tools. Proficient in Java and Python with interests spanning from inventory management systems to machine learning applications. Actively contributing to open-source projects and continuously expanding technical expertise through practical implementations.
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,postgres,react,aws,github,ai,kali,php)](https://skillicons.dev)
+
 https://img.shields.io/badge/CompTIA-C8202F.svg?style=for-the-badge&logo=CompTIA&logoColor=white
 
 
