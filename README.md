@@ -4,7 +4,7 @@ Computer Science student with hands-on experience in cybersecurity and software 
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,postgres,react,aws,github,ai,kali,php)](https://skillicons.dev)
 
-https://img.shields.io/badge/CompTIA-C8202F.svg?style=for-the-badge&logo=CompTIA&logoColor=white
+![Alt text](<https://img.shields.io/badge/CompTIA-C8202F.svg?style=for-the-badge&logo=CompTIA&logoColor=white>)
 
 
 # 📊 GitHub Stats:
