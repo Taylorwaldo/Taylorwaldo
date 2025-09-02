@@ -19,9 +19,9 @@ Computer Science student with hands-on experience in cybersecurity and software 
 ### My Projects
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0d6aaff9-92cd-4bcd-8585-66be8b1fcf7c" width="280" height="140" />
-  <img src="https://github.com/user-attachments/assets/97e8a7cd-3621-43fb-b2a8-debb6ff58a34" width="280" height="140" />
-  <img src="https://github.com/user-attachments/assets/af4300a2-03c4-4620-ad91-519e2a184470" width="280" height="140" />
+  <img src="https://github.com/user-attachments/assets/0d6aaff9-92cd-4bcd-8585-66be8b1fcf7c" width="250" height="125" />
+  <img src="https://github.com/user-attachments/assets/97e8a7cd-3621-43fb-b2a8-debb6ff58a34" width="250" height="125" />
+  <img src="https://github.com/user-attachments/assets/af4300a2-03c4-4620-ad91-519e2a184470" width="250" height="125" />
 </p>
 
 # 📊 GitHub Stats:
