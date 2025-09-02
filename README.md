@@ -24,7 +24,7 @@ Computer Science student with hands-on experience in cybersecurity and software 
   <img src="https://github.com/user-attachments/assets/af4300a2-03c4-4620-ad91-519e2a184470" width="250" height="125" />
 </p>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <table align="center">
   <tr>
