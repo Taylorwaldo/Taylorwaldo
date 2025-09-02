@@ -16,7 +16,7 @@ Computer Science student with hands-on experience in cybersecurity and software 
 ![Alt text](<https://img.shields.io/badge/CompTIA-C8202F.svg?style=for-the-badge&logo=CompTIA&logoColor=white>)
 -->
 
-### My Projects
+# My Projects:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d6aaff9-92cd-4bcd-8585-66be8b1fcf7c" width="250" height="125" />
