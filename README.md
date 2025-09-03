@@ -6,7 +6,7 @@ Computer Science student with hands-on experience in cybersecurity and software 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,kali,java" />
+    <img src="https://skillicons.dev/icons?i=py,bash,kali,java,ubuntu" />
   </a>
 </p>
 
