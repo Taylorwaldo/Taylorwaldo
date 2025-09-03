@@ -11,7 +11,7 @@ Computer Science student with hands-on experience in cybersecurity and software 
 </p>
 
 <!-- 
-[![My Skills](https://skillicons.dev/icons?i=py,bash,postgres,react,aws,github,ai,kali,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,postgres,react,aws,github,ai,kali,php,nodejs,ai,nextjs,express)](https://skillicons.dev)
 
 ![Alt text](<https://img.shields.io/badge/CompTIA-C8202F.svg?style=for-the-badge&logo=CompTIA&logoColor=white>)
 -->
