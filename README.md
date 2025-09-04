@@ -1,6 +1,6 @@
 <img src="banner-animation.gif" alt="GitHub Banner" />
 
-Computer Science student with hands-on experience in cybersecurity and software development. Currently working on network security projects including phishing detection systems and WiFi penetration testing tools. Proficient in Java and Python with interests spanning from inventory management systems to machine learning applications. Actively contributing to open-source projects and continuously expanding technical expertise through practical implementations.
+Cybersecurity-focused Computer Science student at UNC Wilmington. Built phishing detection systems, conducted WiFi penetration testing, and led technical project teams. Specializing in GRC and cloud security with hands-on experience in Java, Python, and security automation tools
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,bash,kali,java)](https://skillicons.dev) -->
 
