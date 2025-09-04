@@ -16,7 +16,9 @@ Cybersecurity-focused Computer Science student at UNC Wilmington. Built phishing
 ![Alt text](<https://img.shields.io/badge/CompTIA-C8202F.svg?style=for-the-badge&logo=CompTIA&logoColor=white>)
 -->
 
-# My Projects:
+# My Projects  
+
+<p align="center"><em>Click a GIF below to open its GitHub repo</em></p>
 
 <p align="center">
   <a href="https://github.com/Taylorwaldo/WifiHackingProject">
