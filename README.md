@@ -2,6 +2,8 @@
 
 Cybersecurity-focused Computer Science student at UNC Wilmington. Built phishing detection systems, conducted WiFi penetration testing, and led technical project teams. Specializing in GRC and cloud security with hands-on experience in Java, Python, and security automation tools.
 
+<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
+
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,bash,kali,java)](https://skillicons.dev) -->
 
 <p align="center">
