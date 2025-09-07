@@ -4,6 +4,11 @@ Cybersecurity-focused Computer Science student at UNC Wilmington. Built phishing
 
 <img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
 
+<!-- Large -->
+<img width="200" height="37" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
+
+
+
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,bash,kali,java)](https://skillicons.dev) -->
 
 <p align="center">
