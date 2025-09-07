@@ -1,6 +1,6 @@
 <img src="banner-animation.gif" alt="GitHub Banner" />
 
-<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/UNCW-Cyber-defense-badge-2.png" />
+<img width="200" height="37" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/UNCW-Cyber-defense-badge-(2).png" />
 
 Cybersecurity-focused Computer Science student at UNC Wilmington. Built phishing detection systems, conducted WiFi penetration testing, and led technical project teams. Specializing in GRC and cloud security with hands-on experience in Java, Python, and security automation tools.
 
