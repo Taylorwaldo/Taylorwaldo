@@ -1,6 +1,6 @@
 <img src="banner-animation.gif" alt="GitHub Banner" />
 
-<img width="200" height="150" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/UNCW-Cyber-defense-badge-(2).png" />
+<img width="200" height="37" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/UNCW-Cyber-defense-badge-(2).png" />
 
 ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
 
