@@ -38,9 +38,10 @@ Cybersecurity-focused Computer Science student at UNC Wilmington. Built phishing
   </a>
 </p>
 
-
 # GitHub Stats:
 
-![Taylorwaldo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taylorwaldo&theme=blueberry&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taylorwaldo&theme=blueberry&hide_border=true" alt="Taylorwaldo's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taylorwaldo&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Taylorwaldo's Top Languages" />
+</div>
 
-![Taylorwaldo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taylorwaldo&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
