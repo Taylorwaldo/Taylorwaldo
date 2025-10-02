@@ -12,7 +12,7 @@ Cybersecurity-focused Computer Science student at UNC Wilmington. Built phishing
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,kali,java,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=py,bash,kali,git,java,ubuntu" />
   </a>
 </p>
 
