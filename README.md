@@ -22,28 +22,33 @@ Cybersecurity-focused Computer Science student at UNC Wilmington. Built phishing
 ![Alt text](<https://img.shields.io/badge/CompTIA-C8202F.svg?style=for-the-badge&logo=CompTIA&logoColor=white>)
 -->
 
-# My Projects 
+ # My Projects
 
 <p align="center"><em>Click a GIF below to open its GitHub repo</em></p>
 
-<p align="center">
-  <!-- Cloud Banking Compliance Scanner (new) -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Cloud Banking Compliance Scanner -->
   <a href="https://github.com/Taylorwaldo/cloud-banking-compliance-scanner">
-    <img src="https://github.com/user-attachments/assets/1079225e-ed6c-4400-8e5e-1425ea3f6d20" alt="Cloud Banking Compliance Scanner GIF" width="250" height="125" />
+    <img src="https://github.com/user-attachments/assets/1079225e-ed6c-4400-8e5e-1425ea3f6d20" alt="Cloud Banking Compliance Scanner GIF" style="max-width: 250px; height: auto;" />
   </a>
 
-  <!-- existing gifs -->
+  <!-- WiFi Hacking Project -->
   <a href="https://github.com/Taylorwaldo/WifiHackingProject">
-    <img src="https://github.com/user-attachments/assets/0d6aaff9-92cd-4bcd-8585-66be8b1fcf7c" alt="WiFi Hacking Project GIF" width="250" height="125" />
+    <img src="https://github.com/user-attachments/assets/0d6aaff9-92cd-4bcd-8585-66be8b1fcf7c" alt="WiFi Hacking Project GIF" style="max-width: 250px; height: auto;" />
   </a>
-  <a href="https://github.com/Taylorwaldo/PhishingEmailDetector">
-    <img src="https://github.com/user-attachments/assets/97e8a7cd-3621-43fb-b2a8-debb6ff58a34" alt="Phishing Email Detector GIF" width="250" height="125" />
-  </a>
-  <a href="https://github.com/Taylorwaldo/UNCWflappybird-custom">
-    <img src="https://github.com/user-attachments/assets/af4300a2-03c4-4620-ad91-519e2a184470" alt="Flappy Bird Custom GIF" width="250" height="125" />
-  </a>
-</p>
 
+  <!-- Phishing Email Detector -->
+  <a href="https://github.com/Taylorwaldo/PhishingEmailDetector">
+    <img src="https://github.com/user-attachments/assets/97e8a7cd-3621-43fb-b2a8-debb6ff58a34" alt="Phishing Email Detector GIF" style="max-width: 250px; height: auto;" />
+  </a>
+
+  <!-- Flappy Bird Custom -->
+  <a href="https://github.com/Taylorwaldo/UNCWflappybird-custom">
+    <img src="https://github.com/user-attachments/assets/af4300a2-03c4-4620-ad91-519e2a184470" alt="Flappy Bird Custom GIF" style="max-width: 250px; height: auto;" />
+  </a>
+
+</div>
 
  
 
