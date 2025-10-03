@@ -5,7 +5,7 @@
 </a>
 
 
-Cybersecurity-focused Computer Science student at UNC Wilmington. Built phishing detection systems, conducted WiFi penetration testing, and led technical project teams. Specializing in GRC and cloud security with hands-on experience in Java, Python, and security automation tools.
+Cybersecurity-focused Computer Science student at UNC Wilmington. Specializing in GRC and cloud security. Built automated compliance scanners for banking environments using Python, AWS, and security frameworks like PCI-DSS and FFIEC.
 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,bash,kali,git,java)](https://skillicons.dev) -->
