@@ -60,6 +60,5 @@ Cybersecurity-focused Computer Science student at UNC Wilmington. Specializing i
 <div align="center">
 
 ![Taylorwaldo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taylorwaldo&theme=dark&hide_border=true)
-![Taylorwaldo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taylorwaldo&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
